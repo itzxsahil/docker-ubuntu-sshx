@@ -15,7 +15,7 @@
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itzxsahil/docker-ubuntu-sshx/main/assets/project-banner.svg" width="100%" alt="Project Preview" />
+  <img src="assets/project-banner.svg" width="100%" alt="Project Preview" />
 </p>
 
 ---
@@ -29,7 +29,7 @@ Deploy a persistent or disposable **Ubuntu 22.04 LTS** cloud terminal accessible
 # 🏗️ System Architecture & Data Flow
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itzxsahil/docker-ubuntu-sshx/main/assets/architecture.svg" width="100%" alt="System Architecture &amp; Data Flow" />
+  <img src="assets/architecture.svg" width="100%" alt="System Architecture &amp; Data Flow" />
 </p>
 
 <br>
