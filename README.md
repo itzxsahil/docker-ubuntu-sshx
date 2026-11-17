@@ -12,13 +12,10 @@
 
 ---
 
-## 🎬 Video Tutorial & Interactive Walkthrough
+## 📸 Project Preview
 
 <div align="center">
-  <a href="https://www.youtube.com/results?search_query=itzxsahil+docker+ubuntu+sshx">
-    <img src="assets/tutorial-showcase.svg" width="100%" alt="Video Tutorial Showcase" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
-  </a>
-  <p><em>▶️ <strong>Interactive Project Tutorial</strong> — Click the player above to watch full setup guide &amp; demonstration!</em></p>
+  <img src="assets/project-banner.svg" width="100%" alt="Project Preview" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.5);" />
 </div>
 
 ---
@@ -29,10 +26,10 @@ Deploy a persistent or disposable **Ubuntu 22.04 LTS** cloud terminal accessible
 
 ---
 
-## 🏗️ System Architecture & Data Flow
+# 🏗️ System Architecture & Data Flow
 
 <div align="center">
-  <img src="assets/architecture.svg" width="100%" alt="Architecture Diagram" style="border-radius: 12px;" />
+  <img src="assets/architecture.svg" width="100%" alt="Architecture Diagram" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.4);" />
 </div>
 
 <br>
@@ -49,10 +46,7 @@ The container boots an internal lightweight HTTP daemon on `$PORT` to satisfy cl
 
 # 📦 Installation & Quickstart
 
-### Render Cloud Deployment
-1. Connect this repo to a new **Web Service** on Render.
-2. Choose **Docker**.
-3. View the live deployment log to click your `sshx.io/s/...` terminal link!
+### Render Deployment\n1. Create a **New Web Service** connected to this repo on Render.\n2. Choose **Docker**.\n3. Open deployment logs to access your instant `sshx.io/s/...` link!
 
 ---
 
